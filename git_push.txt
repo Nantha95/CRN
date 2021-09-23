@@ -1,0 +1,31 @@
+git config --global user.name "Nantha95"
+
+git config --global user.email "nanthakumar.santhanam@gmail.com"
+
+cd Desktop/
+
+Create Empty Folder
+
+git clone https://github.com/rajaramkuberan/BigDataCourswork
+
+copy files
+
+git add foldername
+
+git commit -m "type the msg to convey the latest change/update done" 
+
+git push
+
+curl -H 'Authorization: token <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>'
+
+Token:
+
+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
+
+repeat line 11
+
+git status
+
+git log
+
+
